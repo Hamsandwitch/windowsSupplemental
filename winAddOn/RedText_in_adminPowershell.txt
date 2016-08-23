@@ -1,0 +1,4 @@
+if($Host.UI.RawUI.WindowTitle -like "*administrator*")
+{
+	$Host.UI.RawUI.ForegroundColor = "Red"
+}
