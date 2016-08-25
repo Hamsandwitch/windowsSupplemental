@@ -1,0 +1,53 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = new Object(); 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CmTDOb9cRUaneK87QqQGOq4GIDMaLt6wD1oiH1GzAjbcBEAEg8pn0ASgDUPGrhuACYMner4j0o8AQoAGatcrWA8gBAagDAaoElgFP0OKrlyb5vAOuv-DilTfKBDOpo1IhX0y6UgMaLl-mnJgkgkBkhvidrxccVgvGpcmHCGhFFKvP-onvUzGc6FhMBR4nJTbB2VSOAGR5XZfnjOcFBnssuMZ1PIzDybJ-TO9t2VHnUFqgBymLOh15OPLY8DctjaFIdIN0iEJg_WwhvdPVccP5wcagZaNIvw9p5Vwme-G_ij2IBgGAB87KtSk&amp;num=1&amp;cid=5GiGDs70GCFFHrlovyDvv1WZ&amp;sig=AOD64_0oJpzrIl7jHahyXwhn-YhRlEcnrQ&amp;client=ca-pub-1894578950532504&amp;adurl=http://speedmaxpc.com/speed/booster/fix.php%3Ft202id%3D845%26t202kw%3Dregistry-errors"; 
+google_ad.visible_url = "speedmaxpc.com"; 
+google_ad.line1 = "Fix Registry Errors"; 
+google_ad.line2 = "How to Fix Registry Errors -"; 
+google_ad.line3 = "Just Follow These 3 Easy Steps!"; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_ad = new Object(); 
+google_ad.n = 2; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CXH6Wb9cRUaneK87QqQGOq4GIDMSsxuUC_IzEgz3AjbcBEAIg8pn0ASgDUK76utf7_____wFgyd6viPSjwBCgAezQzf4DyAEBqAMBqgSMAU_QwuKqJvq8A66_4OKVN8oEM6mjUiFfTLpSAxouX6acmCSCQGSG-J2vFxxWC8alyYcIaEUUq8_6ie9TMZzoWEwFHiclNsHZVI4AZHldl-eM5wUGeyy4xnU8jMPJsn5M723ZUedQWqAHKYs6HXk48tjwNy2NoT11gryKMFRZVdS-wyByB4zCxkBjRznOiAYBgAf8rrIB&amp;num=2&amp;cid=5GiGDs70GCFFHrlovyDvv1WZ&amp;sig=AOD64_38Yevka4ybQ7DMQ_fKG6FIWJLMvg&amp;client=ca-pub-1894578950532504&amp;adurl=http://driverupdate.net/articles/windows-7-drivers%3Faps%3Darticle_content_win_7_drivers"; 
+google_ad.visible_url = "www.Windows-7.DriverUpdate.net"; 
+google_ad.line1 = "Windows 7 Driver Download"; 
+google_ad.line2 = "Windows 7 Drivers Latest Download."; 
+google_ad.line3 = "Microsoft Certified. (Recommended)"; 
+google_ad.regionname = ""; 
+google_ads[1] = google_ad; 
+google_ad = new Object(); 
+google_ad.n = 3; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CS4Gcb9cRUaneK87QqQGOq4GIDPLKn7YC-saa5zXuvJTREhADIPKZ9AEoA1Dq9f_eA2DJ3q-I9KPAEKABzqGj3wPIAQGoAwGqBJABT9DypoUm-7wDrr_g4pU3ygQzqaNSIV9MulIDGi5fppyYJIJAZIb4na8XHFYLxqXJhwhoRRSrz_qJ71MxnOhYTAUeJyU2wdlUjgBkeV2X54znBQZ7LLjGdTyMw8myfkzvbdlR51BaoAcpizodeTjy2PA3LY2hSHSDSYn0oVqRIb3T1XEX-cHGIGWzXbr9Gld9iAYBgAea3twg&amp;num=3&amp;cid=5GiGDs70GCFFHrlovyDvv1WZ&amp;sig=AOD64_2v6csjDytESaELvgXjUCebwkGKNA&amp;client=ca-pub-1894578950532504&amp;adurl=http://www.sparktrust.com/fastercomputerfix"; 
+google_ad.visible_url = "PC-Cleaner.sparktrust.com"; 
+google_ad.line1 = "Download PC Cleaner Plus"; 
+google_ad.line2 = "+ PC Cleaner Plus is all you Need."; 
+google_ad.line3 = "Free Download (Highly Recommended)"; 
+google_ad.regionname = ""; 
+google_ads[2] = google_ad; 
+google_info.feedback_url = "http://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://www.howtogeek.com/howto/18119/remove-programs-from-open-with-menu-in-explorer/%26gl%3DUS%26hl%3Den%26client%3Dca-pub-1894578950532504%26ai0%3DCmTDOb9cRUaneK87QqQGOq4GIDMaLt6wD1oiH1GzAjbcBEAEg8pn0ASgDUPGrhuACYMner4j0o8AQoAGatcrWA8gBAagDAaoElgFP0OKrlyb5vAOuv-DilTfKBDOpo1IhX0y6UgMaLl-mnJgkgkBkhvidrxccVgvGpcmHCGhFFKvP-onvUzGc6FhMBR4nJTbB2VSOAGR5XZfnjOcFBnssuMZ1PIzDybJ-TO9t2VHnUFqgBymLOh15OPLY8DctjaFIdIN0iEJg_WwhvdPVccP5wcagZaNIvw9p5Vwme-G_ij2IBgGAB87KtSk%26ai1%3DCXH6Wb9cRUaneK87QqQGOq4GIDMSsxuUC_IzEgz3AjbcBEAIg8pn0ASgDUK76utf7_____wFgyd6viPSjwBCgAezQzf4DyAEBqAMBqgSMAU_QwuKqJvq8A66_4OKVN8oEM6mjUiFfTLpSAxouX6acmCSCQGSG-J2vFxxWC8alyYcIaEUUq8_6ie9TMZzoWEwFHiclNsHZVI4AZHldl-eM5wUGeyy4xnU8jMPJsn5M723ZUedQWqAHKYs6HXk48tjwNy2NoT11gryKMFRZVdS-wyByB4zCxkBjRznOiAYBgAf8rrIB%26ai2%3DCS4Gcb9cRUaneK87QqQGOq4GIDPLKn7YC-saa5zXuvJTREhADIPKZ9AEoA1Dq9f_eA2DJ3q-I9KPAEKABzqGj3wPIAQGoAwGqBJABT9DypoUm-7wDrr_g4pU3ygQzqaNSIV9MulIDGi5fppyYJIJAZIb4na8XHFYLxqXJhwhoRRSrz_qJ71MxnOhYTAUeJyU2wdlUjgBkeV2X54znBQZ7LLjGdTyMw8myfkzvbdlR51BaoAcpizodeTjy2PA3LY2hSHSDSYn0oVqRIb3T1XEX-cHGIGWzXbr9Gld9iAYBgAea3twg\x26usg\x3dAFQjCNFBK7riKQQm8oQz7Gd_Xb4Dv3hcRQ";
+var google_attribution_text = "AdChoices";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}

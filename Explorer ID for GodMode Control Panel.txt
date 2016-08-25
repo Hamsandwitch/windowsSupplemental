@@ -1,0 +1,72 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##########CONTROL#ALL#THE#THINGS#!##################
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+
+Steps to make the "GodMode All Control Panel" in Windows 7.
+
+1. Create a new folder
+
+2. Make/set any name you want (within the intrinsic windows character limit of course)
+
+3. Right-click and select 'rename'
+
+4. Add the extension from the line following this directly after the name you made previously. (no space before or after the . )
+
+                  .{ED7BA470-8E54-465E-825C-99712043E01C}
+
+5. Press ENTER and proceed to WINrar
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				  
+|!| As an example...
+
+     you could take everything below that is BETWEEN (but not including) the asterisks,
+	 and copypasta it as a folder name to create the "GodMode Control Panel"	  
+				  
+*YOURnameHERE_NOspaceBEFOREorAFTERtheDOT.{ED7BA470-8E54-465E-825C-99712043E01C}*
+
+
+
+
+
+SHORT explanation: 
+
+       ^ The .{AlphanumericString} "extension" is actually one of the many unique registry "IDs" that are used as unique reference points by Windoze and the registry.
+	   
+	   ^^ This utilizes what is essentially the unique ID for SHOW ALL in control panel. 
+
+       ^^^ this "setting" is actually "hidden" and not made available unless a program or user specifically accesses it using its unique ID like we have done.
+	                                        ( My best guess is, this was included to make it easier/faster to reference or access a specific control panel option inside a program. )
+											              Faster reference and access, means faster program and faster coding.... obviously moar WINrar.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+      {UBER_1337_HINT} x {ELEVENTY_AWESOME_POINTS} =
+
+               WHEN YOU FIRST OPEN THE "ALL-CONTROLS PANEL" AND SEE THE SHIT-TONS OF OPTIONS..... wait for it....
+
+                        Right fucking click out to the side, in the "void" of the window if you will, then select 'Collapse All'
+
+                             Close the window right after this... then WINrar for a third time as it opens fully collapsed from there on out.											 
+														  
+	
+
+
+
+
+
+
+
+
+      [ a 5 |D 3 |2
+
+
+	
+														  
+														  
+												

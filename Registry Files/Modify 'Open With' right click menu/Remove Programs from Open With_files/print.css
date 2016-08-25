@@ -1,0 +1,53 @@
+
+.content{width:98% !important;padding:0;}
+.thepost,
+.thecontent{width:98% !important;}
+.first {width:98% !important;}
+
+#doc4,
+.yui-ge
+{width: 98% !important;}
+#bd {border-top:1px solid white !important;border-bottom:1px solid white !important;border-right:1px solid white !important;border-left:1px solid white !important;}
+#bd {border:0; !important;}
+
+body { background-color:white;}
+
+iframe,
+.superadmin,
+.sidebar,
+.menu,
+.contsep,
+.commentlist,
+.roundtop,
+.roundbottom,
+#headerpanel,
+#addthis-button,
+#ft,
+#subscribebox,
+#relateddiv,
+#comments,
+#commentform,
+#respond,
+#ad-email-box,
+#top728ad,
+#skyboxes,
+.tmnAdsenseContainer,
+#mainLogo,
+#featposttable,
+#bgImage, #bgTag,#top728ad,
+#related-table, .adSystem_ads, #loadMoreWrap
+{
+	display: none;
+}
+#mainheader {height:60px;}
+#printH1 {display:block !important;font-size:50px;color:#000;}
+.thecontent {font-size:16px;}
+
+
+/* NEW STUFF */
+#htgHeader .topBar, #htgHeader .boxes, #htgNavBar, #htgArticle .usertagline {display:none !important;}
+#htgHeader .logo {height:60px;}
+
+#htgArticle .lazyLoaderWrap {display:block !important; clear:both;}
+img.loading {display:none !important;}
+img.lazyLoad {display:block !important; clear:both;}

@@ -1,0 +1,7 @@
+
+
+
+
+In Win7 you can find the entries to change the registered owner and organization at:
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion

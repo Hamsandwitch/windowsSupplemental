@@ -1,0 +1,42 @@
+Short explanation... just check it out for yourself.
+
+(At Time of writing this 2/14/13)
+
+
+
+
+
+
+
+Windows 7's default setting is for this to be disabled (0)
+
+
+#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#
+               Click Through Stacked taskbar items with "LastActiveClick"
+#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#
+
+
+(Enable it - TRUST ME :)
+
+When Windows 7 "stacks" programs in groups on the task bar it can become a cluster-f*ck FAST.
+
+This is especially true when you have smaller amounts of screen "real-estate" to work with.
+  ( Finding what you want, efficiently and easily, can become a HUGE pain in the ass. )
+			
+Long story short, enabling this option sets a different response to clicking on a "stacked group" of w.e.
+
+Instead of the convoluted default action/response - each click will bring one window to the front.
+
+Click once you get window 1, click again window 2, another click - window 3. 
+
+It will now rotate through the availble windows of that "stack" indefinitely in rotation. (123...123...123...123...)
+
+
+
+WINrar
+
+
+
+
+
+[ 4 5 |D 3 |2

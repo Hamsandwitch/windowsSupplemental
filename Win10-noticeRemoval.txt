@@ -1,0 +1,9 @@
+Get rid of Win10 upgrade notification
+
+
+To get rid of the icon permanently, uninstall KB3035583 which is responsible for these notifications: Control panel, windows update, installed updates, sort by name, "Update for Microsoft Windows KB3035583" (not a Security Update), uninstall, reboot.
+(Alternative: open CMD and enter wusa /uninstall /KB:3035583)
+
+When you're offered the same again via Windows Update remember to hide it.
+
+After uninstalling, if remnants of the update's files are still in Windows\System32\GWX, just delete that directory, although first you may need to take ownership of it.

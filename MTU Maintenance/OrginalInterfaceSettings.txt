@@ -1,0 +1,8 @@
+
+   MTU  MediaSenseState   Bytes In  Bytes Out  Interface
+------  ---------------  ---------  ---------  -------------
+4294967295                1          0      17967  Loopback Pseudo-Interface 1
+  1504                1   19409253  673871708  Local Area Connection
+  1500                1          0      51969  VMware Network Adapter VMnet1
+  1500                1          0      53928  VMware Network Adapter VMnet8
+
